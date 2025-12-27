@@ -19,5 +19,336 @@
       "text": "Vanilla Xtra • The Ultimate Survival Experience"
     },
     "timestamp": true
+  },
+  "rules-spawn": {
+    "title": "🏠 Spawn Rules",
+    "description": "Rules regarding spawn area and spawn protection",
+    "color": "#3498DB",
+    "fields": [
+      {
+        "name": "🚫 Spawn Destruction",
+        "value": "Any destruction of spawn (outside of pvp) is bannable by **up to 7 days**",
+        "inline": false
+      },
+      {
+        "name": "⚠️ Pushing Players",
+        "value": "Pushing people out of spawn is **up to a 3 day ban** if the player is killed",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
+    },
+    "timestamp": true
+  },
+  "rules-hacking": {
+    "title": "🚨 Hacking & Cheating",
+    "description": "Rules regarding hacks, cheats, and unfair advantages",
+    "color": "#E74C3C",
+    "fields": [
+      {
+        "name": "⚔️ Combat Cheats",
+        "value": "Combat cheats will always lead to a **3 day ban**",
+        "inline": false
+      },
+      {
+        "name": "🖥️ Screenshare",
+        "value": "Denying a screenshare from a staff member is a **3 day ban**",
+        "inline": false
+      },
+      {
+        "name": "🤖 Baritone",
+        "value": "Baritone is always a **3 day ban**",
+        "inline": false
+      },
+      {
+        "name": "👁️ ESP/Extra Perception",
+        "value": "Any cheats which give you extra sensory perception is a **3 day ban**",
+        "inline": false
+      },
+      {
+        "name": "🐛 Bug Reporting",
+        "value": "**Failure to report bugs & glitches is not allowed**",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
+    },
+    "timestamp": true
+  },
+  "rules-chat": {
+    "title": "💬 Chat Abuse Rules",
+    "description": "Rules regarding chat behavior and language",
+    "color": "#9B59B6",
+    "fields": [
+      {
+        "name": "🚫 Slurs",
+        "value": "Slurs are banned and are an **instant 1 day mute**",
+        "inline": false
+      },
+      {
+        "name": "🔞 Sexual Content",
+        "value": "Sexual content is a **2 week mute then a 1 day mute**\nSexual Abuse is an **instant ban** & if done against a minor you will be **forwarded for prosecution**",
+        "inline": false
+      },
+      {
+        "name": "😤 Harassment",
+        "value": "Annoying or harassing anyone is **up to a 1 hour mute**",
+        "inline": false
+      },
+      {
+        "name": "📢 Advertising",
+        "value": "Advertising or links of any kind is a **1 day mute**",
+        "inline": false
+      },
+      {
+        "name": "⚠️ Harmful Suggestions",
+        "value": "Any suggestion of bodily harm or suicide to another person is a **1d mute then a 3d mute**",
+        "inline": false
+      },
+      {
+        "name": "⚖️ Discrimination",
+        "value": "Any discrimination against a protected class is a **1d mute then a 3d mute**",
+        "inline": false
+      },
+      {
+        "name": "🔒 Doxxing & DDoSing",
+        "value": "Doxxing & DDoSing is an **instant 1 week mute** depending on severity",
+        "inline": false
+      },
+      {
+        "name": "📢 Spamming",
+        "value": "**Spamming & loud soundboards are disallowed**",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
+    },
+    "timestamp": true
+  },
+  "rules-accounts": {
+    "title": "👤 Account Abuse",
+    "description": "Rules regarding multiple accounts and abuse",
+    "color": "#E67E22",
+    "fields": [
+      {
+        "name": "🚫 Ban Evading",
+        "value": "Ban evading is an **instant IP ban on both accounts** and a **1 week extension** on your ban",
+        "inline": false
+      },
+      {
+        "name": "🌊 Flooding",
+        "value": "Flooding the server leads to **all accounts being banned & IP banned**",
+        "inline": false
+      },
+      {
+        "name": "📦 Storing Special Items",
+        "value": "**No storing special items on another account**",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
+    },
+    "timestamp": true
+  },
+  "rules-teams": {
+    "title": "👥 Team Rules",
+    "description": "Rules regarding teams and team caps",
+    "color": "#2ECC71",
+    "fields": [
+      {
+        "name": "👥 Team Cap",
+        "value": "Team cap is set at **5 people**",
+        "inline": false
+      },
+      {
+        "name": "📋 Team Definition",
+        "value": "A team is determined by:\n• Sharing a base\n• Not actively killing each other\n• Free resource sharing\n• Helping each other in fights",
+        "inline": false
+      },
+      {
+        "name": "⚔️ Special Items Limit",
+        "value": "Teams special items are limited to **2**:\n• 2 custom items\n• 2 Maces\n• 1 Mace and 1 Custom item",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
+    },
+    "timestamp": true
+  },
+  "rules-duping": {
+    "title": "🔧 Duping & Exploits",
+    "description": "What exploits are allowed and disallowed",
+    "color": "#F39C12",
+    "fields": [
+      {
+        "name": "✅ Allowed Exploits",
+        "value": "• String dupers & tripwire dupers\n• TNT Duping",
+        "inline": false
+      },
+      {
+        "name": "❌ Disallowed Exploits",
+        "value": "• Any item dupe\n• **Pearl glitching (NOT ALLOWED AT ALL)**\n• Rail Duping",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
+    },
+    "timestamp": true
+  },
+  "rules-contracts": {
+    "title": "📜 IOU's, Contracts & Trades",
+    "description": "Rules regarding player agreements and trades",
+    "color": "#16A085",
+    "fields": [
+      {
+        "name": "📝 Binding Contract Requirements",
+        "value": "• A signed book from the person who did not write it OR a signed book per person (verbal confirmation works if clear)\n• A clear base case (what happens if contract is not completed)\n• A time period (like in 3 days)",
+        "inline": false
+      },
+      {
+        "name": "💳 IOU Rules",
+        "value": "• Maximum **3 IOU's** on one player at a time\n• Can't make player break server rules or laws\n• Don't carry over to next seasons\n• Valid for **up to 14 days**\n• Can't be used to make someone owe more IOU's\n• Task must be completable in **under 1 hour**",
+        "inline": false
+      },
+      {
+        "name": "🚫 PVP Contracts",
+        "value": "**PVP contracts are NOT allowed**",
+        "inline": false
+      },
+      {
+        "name": "💱 Trade Rules",
+        "value": "• Use the trade room at spawn\n• Interfering with a trade: **1 warn then 1d ban**\n• Scamming: **1d ban & items get rerolled**\n• Fraud: **1d ban & items get rerolled**",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
+    },
+    "timestamp": true
+  },
+  "rules-pvp": {
+    "title": "⚔️ PVP Rules",
+    "description": "Based on Diamond SMP rules - Important combat restrictions",
+    "color": "#C0392B",
+    "fields": [
+      {
+        "name": "❌ Banned Items/Actions in PVP",
+        "value": "• No end crystals\n• No respawn anchors\n• No bed bombing\n• No TNT minecarts in PVP\n• No stasis chambers\n• No elytra macing\n• No storing special items/maces in or out of combat",
+        "inline": false
+      },
+      {
+        "name": "🚫 Danger Logging",
+        "value": "**Danger logging is NOT allowed**",
+        "inline": false
+      },
+      {
+        "name": "⚠️ Item Limits",
+        "value": "Bypassing item limits is an **instant 1 day ban**",
+        "inline": false
+      },
+      {
+        "name": "🔪 Naked Killing",
+        "value": "**1 warn then 1d ban**\nThings that count as naked killing:\n• Stealing loot\n• Snaking\n• Hitting people\n• Griefing builds\n• Killing NPCs (dogs/villagers)",
+        "inline": false
+      },
+      {
+        "name": "👥 Ganking Ratio: 3:1",
+        "value": "**3v1 ✅** with mace/custom item ✅\n**4v1 ❌** with mace/custom item ✅\n**6v1 ❌** with mace/custom item ❌\n**2v6 ✅** with mace/custom item ✅\n**2v7 ❌** with mace/custom item ✅",
+        "inline": false
+      },
+      {
+        "name": "🚪 Sealed PVP Areas",
+        "value": "Purposefully trying to escape from sealed PVP rooms is **1 warn then 1d ban**",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Punishments increase with repeated offenses • Staff words are final"
+    },
+    "timestamp": true
+  },
+  "rules-mods": {
+    "title": "🔌 Allowed & Disallowed Mods",
+    "description": "What mods you can and cannot use",
+    "color": "#8E44AD",
+    "fields": [
+      {
+        "name": "✅ Allowed Mods",
+        "value": "• Fullbright\n• PVP Optimizers\n• Litematica\n• Mouse Tweaks\n• Health Indicators\n• Performance optimizers\n• Replay Mod\n• Minimap\n• World Map\n• Shulker Box Tooltips",
+        "inline": false
+      },
+      {
+        "name": "❌ Disallowed Mods",
+        "value": "• Freecam\n• No Break Delay\n• Xray\n• Player Radar\n• Entity ESP\n• Autoclickers\n• Macros & Scripts",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
+    },
+    "timestamp": true
+  },
+  "rules-all": {
+    "title": "📋 Vanilla Xtra Server Rules",
+    "description": "**Complete server rules - Please read all sections**\n\nUse the commands below to view detailed rules for each category:",
+    "color": "#FFD700",
+    "fields": [
+      {
+        "name": "🏠 Spawn Rules",
+        "value": "`/embed paste rules-spawn`",
+        "inline": true
+      },
+      {
+        "name": "🚨 Hacking",
+        "value": "`/embed paste rules-hacking`",
+        "inline": true
+      },
+      {
+        "name": "💬 Chat Abuse",
+        "value": "`/embed paste rules-chat`",
+        "inline": true
+      },
+      {
+        "name": "👤 Account Abuse",
+        "value": "`/embed paste rules-accounts`",
+        "inline": true
+      },
+      {
+        "name": "👥 Teams",
+        "value": "`/embed paste rules-teams`",
+        "inline": true
+      },
+      {
+        "name": "🔧 Duping",
+        "value": "`/embed paste rules-duping`",
+        "inline": true
+      },
+      {
+        "name": "📜 Contracts",
+        "value": "`/embed paste rules-contracts`",
+        "inline": true
+      },
+      {
+        "name": "⚔️ PVP",
+        "value": "`/embed paste rules-pvp`",
+        "inline": true
+      },
+      {
+        "name": "🔌 Mods",
+        "value": "`/embed paste rules-mods`",
+        "inline": true
+      }
+    ],
+    "footer": {
+      "text": "Punishment severity increases with repeated offenses • Staff decisions are final"
+    },
+    "timestamp": true
   }
 }
+
