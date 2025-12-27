@@ -349,6 +349,28 @@
       "text": "Punishment severity increases with repeated offenses • Staff decisions are final"
     },
     "timestamp": true
-  }
+  },
+  "rules-complete": [
+    "rules-spawn",
+    "rules-hacking",
+    "rules-chat",
+    "rules-accounts",
+    "rules-teams",
+    "rules-duping",
+    "rules-contracts",
+    "rules-pvp",
+    "rules-mods"
+  ],
+  "rules": [
+    "rules-spawn",
+    "rules-hacking",
+    "rules-chat",
+    "rules-accounts",
+    "rules-teams",
+    "rules-duping",
+    "rules-contracts",
+    "rules-pvp",
+    "rules-mods"
+  ]
 }
 
