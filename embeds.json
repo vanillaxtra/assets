@@ -1,3 +1,23 @@
 {
-  
+  "welcome": {
+    "title": "🎮 Welcome to Vanilla Xtra!",
+    "description": "Welcome to the most thrilling hardcore vanilla survival experience!",
+    "color": "#FF69B4",
+    "fields": [
+      {
+        "name": "🏆 Leaderboards",
+        "value": "Use `/leaderboard` to view player rankings",
+        "inline": true
+      },
+      {
+        "name": "📊 Your Stats",
+        "value": "Use `/stats [username]` to check stats",
+        "inline": true
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • The Ultimate Survival Experience"
+    },
+    "timestamp": true
+  }
 }
