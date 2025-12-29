@@ -343,10 +343,41 @@
         "name": "🔌 Mods",
         "value": "`/embed paste rules-mods`",
         "inline": true
+      },
+      {
+        "name": "💵 IRL Trading",
+        "value": "`/embed paste rules-irl`",
+        "inline": true
       }
     ],
     "footer": {
       "text": "Punishment severity increases with repeated offenses • Staff decisions are final"
+    },
+    "timestamp": true
+  },
+  "rules-irl": {
+    "title": "💰 IRL Trading & Transactions",
+    "description": "Rules regarding real-money trading for in-game items or currency",
+    "color": "#27AE60",
+    "fields": [
+      {
+        "name": "🚫 Real-Money Trading (RMT)",
+        "value": "**IRL Trading (selling/buying in-game items, accounts, or services for real currency) is strictly disallowed.** This will result in an **instant ban**.",
+        "inline": false
+      },
+      {
+        "name": "⚠️ Server Responsibility",
+        "value": "**The server will NOT be responsible for any losses, scams, or unfulfilled trades** that result from attempted IRL transactions. We will not refund any real-world money.",
+        "inline": false
+      },
+      {
+        "name": "❌ Advertising RMT",
+        "value": "Advertising RMT or links to RMT sites will result in a **permanent ban**.",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
     },
     "timestamp": true
   },
@@ -359,7 +390,8 @@
     "rules-duping",
     "rules-contracts",
     "rules-pvp",
-    "rules-mods"
+    "rules-mods",
+    "rules-irl"
   ],
   "rules": [
     "rules-spawn",
@@ -370,7 +402,7 @@
     "rules-duping",
     "rules-contracts",
     "rules-pvp",
-    "rules-mods"
+    "rules-mods",
+    "rules-irl"
   ]
 }
-
