@@ -70,7 +70,12 @@
         "name": "🐛 Bug Reporting",
         "value": "**Failure to report bugs & glitches is not allowed**",
         "inline": false
-      }
+      },
+      {
+        "name": "💤 AFK Cheats",
+        "value": "Any autoclickers or anything else which is not an official way to get AFK rewards, will result in a **1 day ban**",
+        "inline": false
+      },
     ],
     "footer": {
       "text": "Vanilla Xtra • Server Rules"
