@@ -386,6 +386,37 @@
     },
     "timestamp": true
   },
+  "rules-teamfights": {
+    "title": "⚔️ Team Fights",
+    "description": "Rules specific to organized team fights",
+    "color": "#1ABC9C",
+    "fields": [
+      {
+        "name": "🤝 Temporary Teams",
+        "value": "Fighting with others in a team fight means you are considered to be in a **temporary team** for the duration of that fight",
+        "inline": false
+      },
+      {
+        "name": "👥 Ganking Limits",
+        "value": "**No ganking limits apply** during team fights",
+        "inline": false
+      },
+      {
+        "name": "🗡️ Special Items",
+        "value": "Maximum **2 special items per side**",
+        "inline": false
+      },
+      {
+        "name": "📊 Team Fight Sizes",
+        "value": "**Allowed:**\n• 5v5\n• 4v5\n• 3v5\n\n**Disallowed:**\n• 6v4\n• 8v6",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Vanilla Xtra • Server Rules"
+    },
+    "timestamp": true
+  }
   "rules-complete": [
     "rules-spawn",
     "rules-hacking",
@@ -408,6 +439,7 @@
     "rules-contracts",
     "rules-pvp",
     "rules-mods",
-    "rules-irl"
+    "rules-irl",
+    "rules-teamfights"
   ]
 }
