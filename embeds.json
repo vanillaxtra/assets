@@ -75,7 +75,7 @@
         "name": "💤 AFK Cheats",
         "value": "Any autoclickers or anything else which is not an official way to get AFK rewards, will result in a **1 day ban**",
         "inline": false
-      },
+      }
     ],
     "footer": {
       "text": "Vanilla Xtra • Server Rules"
@@ -175,8 +175,8 @@
         "inline": false
       },
       {
-        "name": "⚔️ Special Items Limit",
-        "value": "Fights special items are limited to **2**:\n• 2 custom items\n• 2 Maces\n• 1 Mace and 1 Custom item",
+        "name": "⚔️ Item Limits",
+        "value": "• Custom Items: **1 per person** (No team limit)\n• Maces: Limited to **2 per team**",
         "inline": false
       }
     ],
@@ -244,7 +244,12 @@
     "fields": [
       {
         "name": "❌ Banned Items/Actions in PVP",
-        "value": "• No end crystals\n• No respawn anchors\n• No bed bombing\n• No TNT minecarts in PVP\n• No stasis chambers\n• No elytra macing\n• No storing special items/maces in or out of combat",
+        "value": "• **No Enderpearls in combat**\n• No end crystals\n• No respawn anchors\n• No bed bombing\n• No TNT minecarts in PVP\n• No stasis chambers\n• No elytra macing\n• No storing special items/maces in or out of combat",
+        "inline": false
+      },
+      {
+        "name": "✅ Allowed in PVP",
+        "value": "• **Chorus fruit is now permitted in combat**",
         "inline": false
       },
       {
@@ -254,7 +259,7 @@
       },
       {
         "name": "⚠️ Item Limits",
-        "value": "Bypassing item limits is an **instant 1 day ban**",
+        "value": "Bypassing item limits (**1 Custom Item per person**) is an **instant 1 day ban**",
         "inline": false
       },
       {
@@ -403,7 +408,7 @@
       },
       {
         "name": "🗡️ Special Items",
-        "value": "Maximum **2 special items per side**",
+        "value": "• Custom Items: **1 per person**\n• Maces: Maximum **2 per side**",
         "inline": false
       },
       {
@@ -416,7 +421,7 @@
       "text": "Vanilla Xtra • Server Rules"
     },
     "timestamp": true
-  }
+  },
   "rules-complete": [
     "rules-spawn",
     "rules-hacking",
