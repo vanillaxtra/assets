@@ -1,1 +1,33 @@
-
+{
+"mediaRequirements": {
+"title": "📎 Media Requirements",
+"description": "Short & clear: Requirements for accepted content — please follow exactly.",
+"color": "#8A2BE2",
+"fields": [
+{
+"name": "SHORTS",
+"value": "• 2k views\n• 50 likes\n• 15 comments",
+"inline": true
+},
+{
+"name": "LONGFORM (5+ min)",
+"value": "• 500 views\n• 20 likes\n• 10 comments",
+"inline": true
+},
+{
+"name": "WHAT THE VIDEO NEEDS",
+"value": "• Server IP visible & readable on-screen: play.vanillaxtra.com\n• Comments must come from different users\n• Discord link **MUST** be on-screen or in your bio\n• Content **MUST** be about the server\n• Organic content only — no AI-generated content",
+"inline": false
+},
+{
+"name": "DURATION",
+"value": "• Media stays up for 2 weeks, then will be removed",
+"inline": false
+}
+],
+"footer": {
+"text": "Vanilla Xtra • Contact mods with questions"
+},
+"timestamp": true
+}
+}
