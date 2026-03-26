@@ -434,17 +434,5 @@
     "rules-mods",
     "rules-irl"
   ],
-  "rules": [
-    "rules-spawn",
-    "rules-hacking",
-    "rules-chat",
-    "rules-accounts",
-    "rules-teams",
-    "rules-duping",
-    "rules-contracts",
-    "rules-pvp",
-    "rules-mods",
-    "rules-irl",
-    "rules-teamfights"
-  ]
+
 }
