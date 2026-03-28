@@ -72,6 +72,11 @@
         "inline": false
       },
       {
+        "name": "🚷 Inapropiate Chat",
+        "value": "Talking inapropiately will lead to a warn and then a 8h mute",
+        "inline": false
+      },
+      {
         "name": "🔞 Sexual Content",
         "value": "Sexual content is a **2 week mute then a 7day ban**\nSexual Abuse is an **instant ban** & if done against a minor you will be **forwarded for prosecution**",
         "inline": false
