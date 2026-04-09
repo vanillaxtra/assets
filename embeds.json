@@ -1,7 +1,7 @@
 {
   "rules-spawn": {
     "title": "🏠 Spawn Rules",
-    "description": "Rules regarding spawn area and spawn protection.",
+    "description": "Rules regarding spawn area and spawn protection in general.",
     "color": "#3498DB",
     "fields": [
       {
