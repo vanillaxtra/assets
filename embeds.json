@@ -10,6 +10,11 @@
         "inline": false
       },
       {
+       "name": "🔎 Unfair adventage in Subspawn",
+       "value": "Using any type of unfair adventage like (e.g. Horses or Dogarmys) in subspawn will lead to **Warns**",
+       "inline": false
+      },
+      {
         "name": "⚠️ Pushing Players",
         "value": "Pushing people out of spawn is **up to a 3 day ban** if the player is killed",
         "inline": false
