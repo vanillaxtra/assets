@@ -202,7 +202,7 @@
       },
       {
         "name": "💳 IOU Rules",
-        "value": "• Maximum **3 IOU's** on one player at a time\n• Can't make player break server rules or laws\n• Don't carry over to next seasons\n• Valid for **up to 14 days (a instant refresh can be forced with a Iou)**\n• Can't be used to make someone owe more IOU's\n• If its a Task, then it must be completable in **under 1 day**",
+        "value": "• Maximum **3 IOU's** on one player at a time\n• Can't make player break server rules or laws\n• Don't carry over to next seasons\n• Valid for **up to 14 days (if not stated otherwise)**\n• Can't be used to make someone owe more IOU's\n• If its a Task, then it must be completable in **under 1 day**",
         "inline": false
       },
       {
