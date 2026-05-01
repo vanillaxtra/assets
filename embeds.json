@@ -110,7 +110,12 @@
         "name": "📢 Spamming",
         "value": "**Spamming & loud soundboards are disallowed**",
         "inline": false
-      }
+      },
+       {
+        "name": "⚡️ Pinging staff for no reason",
+        "value": "**Pinging and annoying staff for no reason is disallowed and will lead to mutes in the discord**",
+        "inline": false
+      },
     ],
     "footer": {
       "text": "Vanilla Xtra • Server Rules"
