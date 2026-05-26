@@ -279,12 +279,12 @@
     "fields": [
       {
         "name": "✅ Allowed Mods",
-        "value": "• Fullbright\n• PVP Optimizers\n• Litematica\n• Mouse Tweaks\n• Health Indicators\n• Performance optimizers\n• Replay Mod\n• Minimap\n• World Map\n• Shulker Box Tooltips",
+        "value": "• Fullbright\n• PVP Optimizers\n• Litematica\n• Health Indicators\n• Performance optimizers\n• Replay Mod\n• Minimap\n• World Map\n• Shulker Box Tooltips",
         "inline": false
       },
       {
         "name": "❌ Disallowed Mods",
-        "value": "• Freecam\n• No Break Delay\n• Xray\n• Player Radar\n• Entity ESP\n• Autoclickers\n• Macros & Scripts",
+        "value": "• Freecam\n• No Break Delay\n• Mouse Tweaks\n• Xray\n• Player Radar\n• Entity ESP\n• Autoclickers\n• Macros & Scripts",
         "inline": false
       }
     ],
