@@ -247,10 +247,10 @@
         "inline": false
       },
       {
-        "name": "🔪 Naked Killing",
-        "value": "**1 warn then 1d ban**\nThings that count as naked killing:\n• Stealing loot\n• Snaking\n• Hitting people\n• Tp trapping\n• Griefing builds\n• Killing NPCs (dogs/villagers)",
-        "inline": false
-      },
+  "name": "🔪 Naked Killing",
+  "value": "\nThings that count as naked killing:\n• Stealing loot\n• Snaking\n• Hitting people\n• Tp trapping\n• Griefing builds\n• Killing NPCs (dogs/villagers)\n\nThings that don't count as naked killing:\n• Killing players while they are invisible\n• Killing players who stole loot\n• Killing players who are inactively helping others in a fight",
+  "inline": false
+}
       {
         "name": "👥 Ganking Ratio: 3:1",
         "value": "**3v1 ✅** with mace/custom item ✅\n**4v1 ❌** with mace/custom item ✅\n**6v1 ❌** with mace/custom item ❌\n**2v6 ✅** with mace/custom item ✅\n**2v7 ❌** with mace/custom item ✅",
