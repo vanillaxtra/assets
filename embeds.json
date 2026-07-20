@@ -215,11 +215,6 @@
         "value": "**PVP contracts are NOT allowed**",
         "inline": false
       },
-      {
-        "name": "💱 Trade Rules",
-        "value": "• Use the trade room at spawn\n• Interfering with a trade: **1 warn then 1d ban**\n• Scamming: **1d ban & items get rerolled**\n• Fraud: **1d ban & items get rerolled**",
-        "inline": false
-      }
     ],
     "footer": {
       "text": "Vanilla Xtra • Server Rules"
